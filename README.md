@@ -1,2 +1,1 @@
-# portofoliu-RazvanRujoi
-Personal Website
+# Personal Website | Rujoi Razvan
